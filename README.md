@@ -23,9 +23,7 @@
   📫 How to reach me: <a href="mailto: andersonmello722@gmail.com">andersonmello722@gmail.com</a>
 </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
+<h2 align="left" id="macropower-tech">Principais Tecnologias</h2>
 
 <table>
   <tr>
