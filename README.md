@@ -13,22 +13,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Olá, meu nome é Anderson Mello, sou Desenvolvedor Web Front-end
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 Atualmente estou estudando para ser um Desenvolvedor Full Stack
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  💬 Pode perguntar qualquer coisa <a href="https://github.com/andm3ii0/andm3ii0/issues" title="Issues">aqui</a>
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: andersonmello722@gmail.com">andersonmello722@gmail.com</a>
 </p>
 
 <hr>
