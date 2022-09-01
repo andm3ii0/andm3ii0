@@ -36,13 +36,37 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/html5.svg" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/css.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
-  </tr>
-  <tr>
+         <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/redux" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+         <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
   </tr>
 </table>
 
