@@ -88,6 +88,14 @@ const anderson = {
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andm3ii0/andm3ii0/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andm3ii0/andm3ii0/output/snake-light.svg" />
+    <img width="100%" alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/andm3ii0/andm3ii0/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andm3ii0&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
